@@ -1,0 +1,10 @@
+{
+  "name": "stylint-plugin-builtai",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint": "^16.5.0"
+  }
+}
