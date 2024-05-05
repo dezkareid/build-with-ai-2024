@@ -1,12 +1,16 @@
 {
   "name": "eslint-plugin-builtai",
   "version": "1.0.0",
+  "description": "Plugin ESLint de ejemplo con regla 'no-jquery'",
   "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "eslint": "^9.2.0"
+  "scripts": {
+    "test": "jest"
   },
+  "keywords": ["eslint", "plugin"],
+  "author": "jaiba-man",
+  "license": "MIT",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "eslint": "^9.0.0",
+    "jest": "^29.0.0"
   }
 }
